@@ -25,7 +25,6 @@ Currently focused on building innovative projects and expanding my technical ski
 
 - Improving my skills in **mobile application development**
 - Contribute to **open-source projects** and give back to the community
-- Complete my portfolio website to showcase my work professionally
 - Deploy my ongoing projects live for real-world usage
 - Build a strong portfolio of production-ready applications
 
@@ -38,6 +37,6 @@ Currently focused on building innovative projects and expanding my technical ski
 
 ---
 
-Last updated on November 12, 2025.
+Last updated on December 16, 2025.
 
 *This page is a monthly update on what I'm working on and thinking about.*
