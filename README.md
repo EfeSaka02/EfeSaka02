@@ -26,7 +26,6 @@ Currently focused on building innovative projects and expanding my technical ski
 - Improving my skills in **mobile application development**
 - Contribute to **open-source projects** and give back to the community
 - Deploy my ongoing projects live for real-world usage
-- Build a strong portfolio of production-ready applications
 
 ## Tech Stack
 
@@ -37,6 +36,6 @@ Currently focused on building innovative projects and expanding my technical ski
 
 ---
 
-Last updated on December 16, 2025.
+Last updated on January 16, 2026.
 
 *This page is a monthly update on what I'm working on and thinking about.*
