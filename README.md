@@ -1,6 +1,6 @@
 # Hello, It's Efe.
 
-I'm a Full Stack Developer & AI Enthusiast studying at Vizja University and living in Warsaw, Poland.
+I'm a Full Stack Developer & AI Enthusiast & Mobile Application Developer studying at Vizja University and living in Warsaw, Poland.
 
 ## Now
 
